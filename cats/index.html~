@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Kelly Tan</title>
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+
+    <body>
+        <div id="first">
+            Kelly Tan.
+        </div>
+        <div id="resume">
+            <img width="49%" src="files/page1.jpg"></img>
+            <img width="49%" src="files/page2.jpg"></img>
+        </div>
+    </body>
+
+    <script>
+    </script>
+</html>
